@@ -1,6 +1,8 @@
 <p><a href="https://npmjs.org/package/bitbns" rel="nofollow"><img src="https://nodei.co/npm/bitbns.png?compact=true" alt="NPM|Bitbns" data-canonical-src="https://nodei.co/npm/bitbns.png?compact=true" style="max-width:100%;"></a></p>
 
 # Bitbns Node API
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fnode-bitbns-api.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fnode-bitbns-api?ref=badge_shield)
+
 
 This project is designed to assist you make your own projects that interact with the Bitbns API.  This project seeks to have complete API coverage.
 
@@ -3512,3 +3514,7 @@ bitbns.platformStatus(function(error, res1){
     </tr>
   </table>
 </div>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fnode-bitbns-api.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fnode-bitbns-api?ref=badge_large)
